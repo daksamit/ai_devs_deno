@@ -1,5 +1,5 @@
 import { config } from "https://deno.land/x/dotenv/mod.ts";
-import { getArrayFromLines } from "../utils/getArrayFromLines.ts";
+import { getArrayFromLines } from "#/utils/getArrayFromLines.ts";
 
 // https://poligon.aidevs.pl/api
 
