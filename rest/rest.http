@@ -1,0 +1,8 @@
+### default deno server (:8000)
+GET http://0.0.0.0:8000
+
+### two rows txt code for poligon aidevs
+GET https://poligon.aidevs.pl/dane.txt
+
+### some playground api
+GET https://rickandmortyapi.com/api
