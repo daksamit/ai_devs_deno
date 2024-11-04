@@ -3,7 +3,8 @@
     "serve": "deno run --watch --allow-net --allow-env --allow-read src/server.ts",
     "poligon": "deno run --allow-read --allow-env --allow-net src/poligon/main.ts",
     "openai": "deno run -A --watch src/openai/main.ts",
-    "docs": "cd vitepress && npx vitepress dev ."
+    "docs": "cd vitepress && npx vitepress dev .",
+    "lint": "deno lint --fix --ignore=vitepress/.vitepress"
   },
   "imports": {
     "#/": "./src/",
