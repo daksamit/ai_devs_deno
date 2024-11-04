@@ -1,1 +1,4 @@
 .env
+vitepress/node_modules
+vitepress/.vitepress/dist
+vitepress/.vitepress/cache
